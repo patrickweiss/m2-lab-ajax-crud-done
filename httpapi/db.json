@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Superman",
+      "occupation": "World saver",
+      "weapon": "Fist",
+      "id": 4
+    },
+    {
+      "name": "Arthur Dent",
+      "occupation": "Hitchhicker",
+      "weapon": "Towel",
+      "cartoon": true,
+      "id": 5
+    },
+    {
+      "name": "Arthur Dent",
+      "occupation": "Hitchhicker",
+      "weapon": "Towel",
+      "cartoon": false,
+      "id": 6
+    },
+    {
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Laser",
+      "cartoon": true,
+      "id": 7
+    }
+  ]
+}
